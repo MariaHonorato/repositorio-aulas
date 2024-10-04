@@ -1,0 +1,42 @@
+/*id = # class .*/
+
+*{
+margin: 0;
+padding: 0;
+}
+
+#titulo-principal{
+    background-color: aqua;
+    text-align: center;
+    color: bisque;
+}
+
+.basico{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blue;
+    font-weight: bold;
+    font-size: 1.8em;
+}
+
+.intermediario{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blueviolet;
+    font-weight: bold;
+    font-size: 2.0em;
+}
+
+.avancado{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aquamarine;
+    font-weight: bolder;
+    font-size: 2.5em;
+}
+
+.destaque{
+    background-color: gold;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    text-align: justify;
+}
